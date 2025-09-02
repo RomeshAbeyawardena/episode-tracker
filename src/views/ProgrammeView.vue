@@ -17,7 +17,12 @@ const { programmes } = storeToRefs(programmesStore)
 <template>
   <main>
     <data-view :value="programmes">
-        
+        <template #header>
+
+        </template>
+        <template #list>
+            
+        </template>
     </data-view>    
   </main>
 </template>
