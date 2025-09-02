@@ -4,6 +4,6 @@
 
 <template>
   <main>
-    <h1>Welcome to the Episode Tracker</h1>
+    
   </main>
 </template>

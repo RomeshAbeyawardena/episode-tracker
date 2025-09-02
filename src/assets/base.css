@@ -1,7 +1,8 @@
 @import "tailwindcss";
+@import "primeicons/primeicons.css";
 
 body {
-  min-height: 100vh;
+  height: 100vh;
   color: var(--color-text);
   background: var(--color-background);
   transition:
